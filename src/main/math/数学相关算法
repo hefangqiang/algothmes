@@ -1,3 +1,5 @@
 
 maxdivisor - 两个数的最大公约数
 secondpower - 判断某个正整数是否是为2的整次幂
+permutationnextnum - 全排列组合中大于这个数的最小数
+deleteknum - 删去k个数的最小值
